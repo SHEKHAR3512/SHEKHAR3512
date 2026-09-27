@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+<title id="title">Shekhar's product development loop</title><desc id="desc">Idea, design, build, integrate, debug and ship loop</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#0b1730"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  <style>.flow{stroke-dasharray:10 12;animation:move 1.8s linear infinite}@keyframes move{to{stroke-dashoffset:-44}}.node{animation:pop 3.6s ease-in-out infinite}@keyframes pop{0%,100%{opacity:.78}50%{opacity:1}}</style>
+</defs>
+<rect width="1100" height="360" rx="26" fill="url(#bg)"/>
+<text x="55" y="58" fill="#d7e7f8" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="700">How I build</text>
+<text x="55" y="88" fill="#708cab" font-family="ui-monospace,monospace" font-size="15">a feature is a system, not just a screen</text>
+<path d="M115 190 H985" stroke="#17365b" stroke-width="6" stroke-linecap="round"/>
+<path d="M115 190 H985" stroke="url(#line)" stroke-width="3" stroke-linecap="round" class="flow"/>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+  <g class="node"><circle cx="130" cy="190" r="42" fill="#0b2038" stroke="#38bdf8" stroke-width="2"/><text x="130" y="197" fill="#e6f5ff" font-size="16" font-weight="700">IDEA</text></g>
+  <g class="node"><circle cx="298" cy="190" r="42" fill="#0b2038" stroke="#38bdf8" stroke-width="2"/><text x="298" y="197" fill="#e6f5ff" font-size="16" font-weight="700">DESIGN</text></g>
+  <g class="node"><circle cx="466" cy="190" r="42" fill="#0b2038" stroke="#60a5fa" stroke-width="2"/><text x="466" y="197" fill="#e6f5ff" font-size="16" font-weight="700">BUILD</text></g>
+  <g class="node"><circle cx="634" cy="190" r="42" fill="#0b2038" stroke="#818cf8" stroke-width="2"/><text x="634" y="197" fill="#e6f5ff" font-size="14" font-weight="700">INTEGRATE</text></g>
+  <g class="node"><circle cx="802" cy="190" r="42" fill="#0b2038" stroke="#60a5fa" stroke-width="2"/><text x="802" y="197" fill="#e6f5ff" font-size="16" font-weight="700">DEBUG</text></g>
+  <g class="node"><circle cx="970" cy="190" r="42" fill="#0b2038" stroke="#22d3ee" stroke-width="2"/><text x="970" y="197" fill="#e6f5ff" font-size="16" font-weight="700">SHIP</text></g>
+</g>
+<path d="M970 250 C970 315 130 315 130 250" fill="none" stroke="#24486d" stroke-width="2" stroke-dasharray="7 9" class="flow"/>
+<text x="550" y="320" fill="#6f8dab" font-family="ui-monospace,monospace" font-size="15" text-anchor="middle">learn ↺ improve ↺ repeat</text>
+</svg>
