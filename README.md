@@ -1,32 +1,307 @@
-<h1 align="center">Hi 👋, I'm SHEKHAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Shekhar</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhar3512" alt="shekhar3512" /></a> </p>
+<h3 align="center">
+Frontend & React Native Developer • UI Engineer • Creative Developer
+</h3>
 
-- 🔭 I’m currently working on [AURA-Music](https://github.com/SHEKHAR3512/aura-music)
-
-- 🌱 I’m currently learning **React/Native gsap WebGl**
-
-- 👯 I’m looking to collaborate on [AURA-Music](https://github.com/SHEKHAR3512/aura-music)
-
-- 👨‍💻 All of my projects are available at [https://shekhar-birda--3d-interactive-portf.vercel.app/](https://shekhar-birda--3d-interactive-portf.vercel.app/)
-
-- 💬 Ask me about **REACT JS**
-
-- 📫 How to reach me **shekharjaat751@gmail.com**
-
-- 📄 Know about my experiences [https://shekhar-birda--3d-interactive-portf.vercel.app/](https://shekhar-birda--3d-interactive-portf.vercel.app/)
-
-- ⚡ Fun fact **🐛 Fun fact: I can spend hours fixing one tiny UI bug… and then realize the bug was a missing semicolon from 3 hours ago.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shekhar-birda-279763353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shekhar-birda-279763353/" height="30" width="40" /></a>
-<a href="https://fb.com/shekhar birda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shekhar birda" height="30" width="40" /></a>
-<a href="https://instagram.com/shekhar404_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekhar404_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/SHEKHAR3512">
+    <img src="https://komarev.com/ghpvc/?username=SHEKHAR3512&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/SHEKHAR3512?tab=followers">
+    <img src="https://img.shields.io/github/followers/SHEKHAR3512?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekhar3512&show_icons=true&locale=en&layout=compact" alt="shekhar3512" /></p>
+## 👨‍💻 About Me
+
+I'm a **Frontend & React Native Developer from India** who enjoys turning ideas into polished, scalable and interactive digital products.
+
+My primary focus is building **production-ready web and mobile applications** with React and React Native, while exploring the creative side of development through **GSAP, WebGL, Babylon.js and 3D experiences**.
+
+I enjoy working across the entire frontend ecosystem — from designing reusable UI components and integrating APIs to debugging production issues, optimizing performance and preparing applications for release.
+
+```javascript
+const shekhar = {
+  role: "Frontend & React Native Developer",
+  location: "India",
+
+  primaryStack: [
+    "React",
+    "React Native",
+    "TypeScript",
+    "JavaScript"
+  ],
+
+  frontend: [
+    "HTML",
+    "CSS",
+    "SCSS",
+    "Tailwind CSS",
+    "Material UI"
+  ],
+
+  stateManagement: [
+    "Redux",
+    "Redux Toolkit",
+    "RTK Query"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  databases: [
+    "MongoDB",
+    "MySQL"
+  ],
+
+  creativeDevelopment: [
+    "GSAP",
+    "WebGL",
+    "Babylon.js",
+    "3D Web Experiences"
+  ],
+
+  currentlyLearning: [
+    "Advanced React Native",
+    "WebGL",
+    "GSAP",
+    "3D Web Development",
+    "System Design"
+  ],
+
+  mindset: "Build → Break → Debug → Improve → Ship 🚀"
+};
+```
+
+---
+
+## 🚀 What I Do
+
+* ⚛️ Build modern **React applications**
+* 📱 Develop cross-platform **React Native applications**
+* 🧩 Build reusable and scalable UI components
+* 🔌 Integrate REST APIs and third-party services
+* 🔄 Work with Redux, Redux Toolkit & RTK Query
+* 💳 Integrate payment systems and payment flows
+* 🔐 Build authentication and OTP-based flows
+* 🧪 Debug complex production and release issues
+* 🚢 Prepare Android & iOS applications for production
+* 🎨 Create interactive UI animations with GSAP
+* 🌐 Experiment with WebGL and 3D experiences
+* 🏗️ Explore frontend architecture and system design
+* 🛠️ Build admin panels and business dashboards
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### Mobile
+
+<p>
+<img src="https://reactnative.dev/img/header_logo.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="45"/>
+</p>
+
+### State Management & Data
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+</p>
+
+### Creative Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babylonjs/babylonjs-original.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="45"/>
+</p>
+
+> Building interfaces that don't just work — they feel alive.
+
+### Tools & Workflow
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🎵 AURA — Music Experience
+
+An experimental music-focused project combining modern frontend development with interactive UI and creative experiences.
+
+**Focus:** React • Animation • Interactive UI • Creative Development
+
+🔗 [View Repository](https://github.com/SHEKHAR3512/aura-music)
+
+---
+
+### 🍽️ Snibbl
+
+A production-focused food, merchant and community ecosystem involving:
+
+* React Native mobile applications
+* Merchant & admin dashboards
+* REST API integrations
+* Authentication & OTP flows
+* Payments
+* Reservations
+* Donations
+* Loyalty & rewards
+* Community features
+* Location-based functionality
+* Android & iOS production releases
+
+---
+
+### 🎨 Interactive 3D Portfolio
+
+My personal portfolio experimenting with interactive 3D experiences, animations and creative frontend development.
+
+🔗 [Visit Portfolio](https://shekhar-birda--3d-interactive-portf.vercel.app/)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHEKHAR3512&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEKHAR3512&layout=compact&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SHEKHAR3512&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHEKHAR3512&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHEKHAR3512&theme=flat&no-frame=true&no-bg=true&margin-w=5&row=1" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+React / React Native     ████████████████████  Advanced
+TypeScript               ██████████████████░░  Advanced
+JavaScript               ████████████████████  Advanced
+Redux / RTK Query        ██████████████████░░  Advanced
+REST API Integration     ██████████████████░░  Advanced
+UI / UX                  █████████████████░░░  Advanced
+GSAP                     ███████████████░░░░░  Learning
+WebGL                    ████████████░░░░░░░░  Learning
+3D Development           ██████████░░░░░░░░░░  Learning
+System Design            ████████░░░░░░░░░░░░  Learning
+```
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React Native architecture
+* WebGL & browser graphics
+* GSAP animations
+* Babylon.js & interactive 3D
+* Frontend performance optimization
+* Scalable application architecture
+* System design
+* Better testing & engineering practices
+
+---
+
+## 💬 Ask Me About
+
+**React • React Native • TypeScript • JavaScript • Redux • RTK Query • REST APIs • UI Architecture • Mobile Development • GSAP • WebGL • 3D Web**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shekhar-birda-279763353/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+</a>
+
+<a href="https://instagram.com/shekhar404_" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
+</a>
+
+<a href="mailto:shekharjaat751@gmail.com">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="30"/>
+</a>
+</p>
+
+📧 **Email:** [shekharjaat751@gmail.com](mailto:shekharjaat751@gmail.com)
+
+🌐 **Portfolio:** https://shekhar-birda--3d-interactive-portf.vercel.app/
+
+---
+
+## ⚡ A Little About Me
+
+> 🐛 I can spend hours fixing one tiny UI bug...
+>
+> ...and then realize the actual bug was a missing semicolon from 3 hours ago.
+
+I like building things, breaking things, figuring out why they broke, and eventually making them better.
+
+**Code. Debug. Learn. Ship. Repeat. 🚀**
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, consider giving it a star.
+</p>
