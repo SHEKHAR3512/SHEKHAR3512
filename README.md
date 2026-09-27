@@ -1,522 +1,197 @@
-<!-- ========================================================= -->
-<!--                       HEADER                              -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=SHEKHAR&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%7C%20React%20Native%20%7C%20Creative%20Developer&descAlignY=60&descSize=20"
-    width="100%"
-  />
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Animated Shekhar developer introduction" />
 
-<!-- ========================================================= -->
-<!--                     TYPING EFFECT                         -->
-<!-- ========================================================= -->
+### Frontend Developer · React · React Native · TypeScript · Creative UI
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React+Native+Developer;Building+production-ready+web+%26+mobile+apps;Turning+ideas+into+interactive+experiences;React+%7C+TypeScript+%7C+React+Native;Exploring+GSAP+%7C+WebGL+%7C+3D;Build.+Debug.+Learn.+Ship.+Repeat."
-    alt="Typing SVG"
-  />
-</p>
+**[GitHub](https://github.com/SHEKHAR3512)** · **[LinkedIn](https://www.linkedin.com/in/shekhar-birda-279763353/)** · **[Portfolio](https://shekhar-birda--3d-interactive-portf.vercel.app/)** · **[Email](mailto:shekharjaat751@gmail.com)**
 
-<p align="center">
-  <a href="https://github.com/SHEKHAR3512">
-    <img
-      src="https://komarev.com/ghpvc/?username=SHEKHAR3512&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
-      alt="Profile Views"
-    />
-  </a>
+> I turn product ideas into interfaces that survive real APIs, edge cases, debugging, polish and production — then I experiment with how far the experience can go.
 
-  <a href="https://github.com/SHEKHAR3512?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/SHEKHAR3512?style=for-the-badge&label=FOLLOWERS&color=2563EB"
-      alt="GitHub Followers"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 `$ whoami`
+## `$ whoami`
+
+I'm **Shekhar**, currently working at **Apptunix as a React Developer**, while growing deeper into **React Native, frontend architecture, performance and creative frontend engineering**.
+
+My frontend story is not really about collecting technologies. It is about understanding the full path a feature takes:
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   SHEKHAR                                                     │
-│   ──────────────────────────────────────────────────────────  │
-│                                                              │
-│   Role       : Frontend & React Native Developer             │
-│   Location   : India                                         │
-│   Focus      : Web • Mobile • UI • Interactive               │
-│   Currently  : Building & Learning                           │
-│                                                              │
-│   React        ████████████████████████████████████████      │
-│   React Native ███████████████████████████████████████░      │
-│   TypeScript   ███████████████████████████████████████░      │
-│   JavaScript   ████████████████████████████████████████      │
-│   UI / UX      █████████████████████████████████████░░      │
-│   GSAP         ███████████████████████████░░░░░░░░░░░░      │
-│   WebGL        ████████████████████░░░░░░░░░░░░░░░░░░      │
-│   3D           ██████████████████░░░░░░░░░░░░░░░░░░░░      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+idea → interaction → component → state → API → edge cases → debugging → polish → release
 ```
+
+I enjoy both halves of frontend development:
+
+- **engineering:** reusable architecture, data flow, APIs, validation, debugging and release-quality behavior
+- **experience:** responsive UI, motion, interaction, WebGL, 3D and interfaces that feel alive
+
+The interesting part is where those two halves meet.
 
 ---
 
-# ⚡ About Me
+## 🧭 The story so far
 
-I'm a **Frontend & React Native Developer from India** focused on building polished, scalable and production-ready digital products.
+<img src="./assets/journey.svg" width="100%" alt="Developer journey from computer engineering diploma to production React work and current mobile and creative frontend growth" />
 
-My main focus is building **web and mobile applications** using React, React Native, TypeScript and JavaScript.
+I completed a **Diploma in Computer Engineering from Government Polytechnic Sirsa in 2024** and moved into hands-on product development. Today, I work with real application flows where the UI is only one part of the problem.
 
-I also enjoy exploring the creative side of frontend development through **GSAP, WebGL, Babylon.js, 3D interfaces and interactive experiences**.
+That changed the way I learn: I care less about whether I know the name of a pattern and more about whether I can use the right pattern when a product gets complicated.
 
-I enjoy taking a feature from:
+---
+
+## ⚡ How I build
+
+<img src="./assets/build-loop.svg" width="100%" alt="Animated product development loop from idea to shipping" />
+
+A feature is not finished when the screen looks right. It is finished when the full flow behaves correctly with real data.
 
 ```text
-Idea
-  ↓
-UI / UX
-  ↓
-React / React Native
-  ↓
-API Integration
-  ↓
-State Management
-  ↓
-Testing
-  ↓
-Debugging
-  ↓
-Production 🚀
+THINK → DESIGN → BUILD → INTEGRATE → DEBUG → OPTIMIZE → SHIP → LEARN ↺
 ```
 
----
-
-# 🛠️ What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Web Applications
-
-- React applications
-- Admin dashboards
-- Merchant panels
-- Analytics dashboards
-- API-driven interfaces
-- Reusable component systems
-- Responsive UI
-
-</td>
-
-<td width="50%">
-
-### 📱 Mobile Applications
-
-- React Native applications
-- Android & iOS
-- Authentication
-- OTP flows
-- Payment flows
-- Location services
-- Push notifications
-- Production releases
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎨 Creative Development
-
-- GSAP animations
-- WebGL
-- Babylon.js
-- Interactive 3D
-- Motion design
-- Experimental UI
-
-</td>
-
-<td>
-
-### ⚙️ Engineering
-
-- REST APIs
-- Redux / Redux Toolkit
-- RTK Query
-- Debugging
-- Performance optimization
-- Git workflows
-- Release management
-- System design
-
-</td>
-</tr>
-</table>
+Debugging is not the last stage. It is part of building.
 
 ---
 
-# 💻 Tech Stack
+## 🧠 How I think about frontend architecture
 
-### ⚛️ Core
+<img src="./assets/architecture.svg" width="100%" alt="Frontend architecture diagram showing user, interface, state, data and product layers" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,html,css,sass" />
-</p>
+The exact library can change. The principle stays the same:
 
-### 🎨 UI & Styling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,figma" />
-</p>
-
-### 🔄 State & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,firebase,mongodb,mysql" />
-</p>
-
-### ⚙️ Backend & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman,git,github,linux" />
-</p>
-
-### 🌌 Creative / 3D
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,blender" />
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Babylon.js-BB464B?style=for-the-badge&logo=babylondotjs&logoColor=white" />
-
-</p>
+> **Make responsibilities clear enough that changing one part does not create chaos everywhere else.**
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ The toolkit
 
-## 🎵 AURA Music
+<img src="./assets/toolkit.svg" width="100%" alt="Visual map of React, React Native, TypeScript, Redux Toolkit, UI systems, developer tooling and creative frontend technologies" />
 
-<p align="center">
-  <a href="https://github.com/SHEKHAR3512/aura-music">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=SHEKHAR3512&repo=aura-music&theme=transparent&hide_border=true"
-      alt="AURA Music"
-    />
-  </a>
-</p>
+<details>
+<summary><b>Text version of the stack</b></summary>
 
-An experimental music experience focused on modern UI, interaction and creative frontend development.
+<br/>
 
-**Focus**
+**Frontend:** React · React Native · TypeScript · JavaScript · HTML · CSS  
+**UI:** Material UI · Core UI · Tailwind CSS · Responsive Design · Component Systems  
+**State & Data:** Redux Toolkit · RTK Query · REST APIs · Firebase  
+**Engineering:** Git · GitHub · GitLab · ESLint · Prettier · Husky · API Debugging  
+**Creative:** GSAP · WebGL · Three.js · Babylon.js · 3D UI · Motion Design
 
-`React` `JavaScript` `Interactive UI` `Animation` `Creative Development`
-
-🔗 **Repository:**  
-https://github.com/SHEKHAR3512/aura-music
+</details>
 
 ---
 
-## 🍽️ Snibbl
+## 🚀 Production work: systems, not just screens
 
-A production-focused food, merchant and community ecosystem.
+<img src="./assets/product-work.svg" width="100%" alt="Visual map of production work across Snibbl and Anna Travel" />
 
-### Areas I've worked across
+### 🍽️ Snibbl
+
+Working across a food, merchant and community ecosystem has meant touching many connected parts of the product: **admin tools, merchant flows, orders, revenue, settlements, promotions, analytics, donations, authentication, location, payments, community and React Native screens**.
+
+The useful lesson from that kind of product work is simple:
+
+> A beautiful component can still be a broken feature if its data flow, validation, empty states, permissions or edge cases are wrong.
+
+### 🧳 Anna Travel
+
+Travel-admin work added a different kind of complexity: **agencies, hotels, products, rates, availability, cancellation policies, revenue, commission, QR workflows and pickup/location flows**.
+
+That pushed me to think more about relationships between screens and data instead of treating each page as an isolated task.
+
+---
+
+## 🎵 Featured project — AURA Music
+
+<a href="https://github.com/SHEKHAR3512/aura-music">
+  <img src="./assets/aura-card.svg" width="100%" alt="AURA Music project card" />
+</a>
+
+AURA is where I combine product engineering with experimentation. It currently explores a **cinematic player, synchronized lyrics, real-time WebSocket Jam sessions, multi-provider authentication, Firebase, AI recommendations and a modern motion-heavy UI**.
+
+**[Open the AURA Music repository →](https://github.com/SHEKHAR3512/aura-music)**
+
+---
+
+## 🌌 Interactive 3D portfolio
+
+My portfolio is the opposite side of the same frontend journey: less dashboard, more exploration.
 
 ```text
-📱 React Native Application
-🏪 Merchant Application
-🖥️ Admin Panel
-🔐 Authentication & OTP
-💳 Payment Integration
-📍 Location Services
-🍽️ Reservations
-🎁 Loyalty & Rewards
-🤝 Community
-💰 Donations
-📊 Analytics
-🚢 Android & iOS Releases
+React → motion → WebGL → 3D → interaction → experience
 ```
 
-The project involves working with real-world application flows, APIs, production debugging and mobile release management.
+**[Explore the interactive portfolio →](https://shekhar-birda--3d-interactive-portf.vercel.app/)**
 
 ---
 
-## 🌌 Interactive 3D Portfolio
+## 🧪 The experimental lab
 
-My personal portfolio focused on experimenting with:
+<img src="./assets/creative-lab.svg" width="100%" alt="Animated creative frontend laboratory combining React, motion, WebGL, 3D and music user experience" />
 
-- Interactive UI
-- GSAP
-- WebGL
-- 3D experiences
-- Motion
-- Creative frontend development
+This is where I deliberately ask different questions:
 
-🌐 **Portfolio**
+- What if the interface responds to the content?
+- What if motion explains hierarchy instead of decorating it?
+- What if a music player feels cinematic rather than utilitarian?
+- What if a portfolio feels like an environment rather than a page?
 
-https://shekhar-birda--3d-interactive-portf.vercel.app/
+Not every experiment needs to become a product. Some are valuable because they change the way I build the next product.
 
 ---
 
-# 🎧 Currently Listening To
+## 📍 What I am going deeper on now
 
-<!--
-OPTIONAL:
-Replace YOUR_SPOTIFY_USER_ID with your Spotify User ID.
-If you don't want Spotify, you can remove this entire section.
--->
+<img src="./assets/focus.svg" width="100%" alt="Current learning path through React Native architecture, frontend systems, performance, motion, WebGL and 3D" />
 
-<p align="center">
-  <a href="https://open.spotify.com/">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
-      width="500"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
-
-<p align="center">
-  🎵 <i>Music keeps the code moving.</i>
-</p>
+| Direction | What I care about |
+|---|---|
+| **React Native** | stronger architecture and reliable mobile flows |
+| **Frontend systems** | cleaner boundaries, scalable state and data patterns |
+| **Performance** | rendering behavior and user-perceived speed |
+| **Motion** | purposeful interaction, not animation for its own sake |
+| **WebGL / 3D** | richer interfaces and new interaction models |
+| **Quality** | linting, formatting, pre-commit checks and fewer avoidable regressions |
 
 ---
 
-# 📊 GitHub Analytics
+## 🧭 The developer I want to become
 
-<p align="center">
+I do not only want to become faster at writing components.
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SHEKHAR3512&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEKHAR3512&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    alt="Top Languages"
-  />
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SHEKHAR3512&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SHEKHAR3512&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Activity"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SHEKHAR3512/SHEKHAR3512/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SHEKHAR3512/SHEKHAR3512/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/SHEKHAR3512/SHEKHAR3512/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-
-</picture>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=SHEKHAR3512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📌 My Development Journey
+I want to become better at understanding **why the component exists**, how it participates in a system, and what the user experiences when the ideal path fails.
 
 ```text
-                  ┌─────────────────┐
-                  │      IDEA       │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │     UI / UX     │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   REACT / RN    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   APIs / STATE  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │     TESTING     │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │    DEBUGGING    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   RELEASE 🚀    │
-                  └─────────────────┘
+USER
+  ↓
+EXPERIENCE
+  ↓
+ENGINEERING
+  ↓
+QUALITY
+  ↓
+PRODUCT
 ```
 
----
-
-# 🌱 Currently Exploring
-
-```text
-React Native Architecture
-          ↓
-Frontend System Design
-          ↓
-Performance Optimization
-          ↓
-GSAP
-          ↓
-WebGL
-          ↓
-Babylon.js
-          ↓
-Interactive 3D
-```
+**Good frontend work is where all five meet.**
 
 ---
 
-# 🎯 2026 Focus
+## ⚡ Fun fact
 
-- ⚛️ Advanced React & React Native
-- 🧠 Frontend architecture
-- 🏗️ System design
-- 🚀 Performance optimization
-- 🎨 GSAP & motion design
-- 🌐 WebGL
-- 🧊 3D web experiences
-- 📱 Better mobile architecture
-- 🧪 Testing & engineering practices
-- 🔧 Better developer workflows
+> I can spend hours fixing one tiny UI bug… and somehow end up redesigning the component architecture because the bug exposed a bigger problem.
 
 ---
 
-# 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
+### Build. Debug. Learn. Ship. Repeat.
 
-<a href="https://www.linkedin.com/in/shekhar-birda-279763353/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+**[GitHub](https://github.com/SHEKHAR3512)** · **[LinkedIn](https://www.linkedin.com/in/shekhar-birda-279763353/)** · **[Portfolio](https://shekhar-birda--3d-interactive-portf.vercel.app/)** · **[Email](mailto:shekharjaat751@gmail.com)**
 
-<a href="mailto:shekharjaat751@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+<sub>Core visuals in this profile are repository-local, so the README does not depend on third-party badge or stats image services.</sub>
 
-<a href="https://instagram.com/shekhar404_">
-  <img
-    src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
-<a href="https://shekhar-birda--3d-interactive-portf.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-</p>
-
-<p align="center">
-
-📧 <b>shekharjaat751@gmail.com</b>
-
-<br />
-
-🌐 <b>Portfolio:</b>
-<a href="https://shekhar-birda--3d-interactive-portf.vercel.app/">
-shekhar-birda--3d-interactive-portf.vercel.app
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> 🐛 I can spend hours fixing one tiny UI bug...
->
-> ...and then realize the actual bug was a missing semicolon from 3 hours ago.
-
----
-
-<p align="center">
-
-### `Build. Debug. Learn. Ship. Repeat. 🚀`
-
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer"
-    width="100%"
-  />
-</p>
+</div>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Shekhar — Frontend, React Native and Creative Developer</title>
+<desc id="desc">Animated terminal-inspired developer introduction</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="0.55" stop-color="#0b1730"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="0.5" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#19304f" stroke-width="1" opacity=".35"/></pattern>
+  <style>
+    .pulse{animation:pulse 3s ease-in-out infinite}.float{animation:float 4s ease-in-out infinite}.dash{stroke-dasharray:520;stroke-dashoffset:520;animation:draw 2.5s ease forwards}.blink{animation:blink 1s steps(1) infinite}
+    @keyframes pulse{0%,100%{opacity:.28}50%{opacity:.7}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes draw{to{stroke-dashoffset:0}}@keyframes blink{50%{opacity:0}}
+  </style>
+</defs>
+<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+<circle cx="1020" cy="70" r="150" fill="#0ea5e9" opacity=".12" filter="url(#glow)" class="pulse"/>
+<circle cx="170" cy="340" r="130" fill="#2563eb" opacity=".13" filter="url(#glow)" class="pulse"/>
+<g transform="translate(70 60)" class="float">
+  <rect x="0" y="0" width="1060" height="300" rx="22" fill="#081525" stroke="#17365b" stroke-width="2"/>
+  <circle cx="30" cy="28" r="7" fill="#fb7185"/><circle cx="54" cy="28" r="7" fill="#fbbf24"/><circle cx="78" cy="28" r="7" fill="#34d399"/>
+  <text x="105" y="35" fill="#6f8cae" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">~/profile</text>
+  <text x="52" y="92" fill="#7dd3fc" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">$ whoami</text>
+  <text x="52" y="157" fill="url(#accent)" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="68" letter-spacing="5">SHEKHAR</text>
+  <path d="M52 178 H565" stroke="url(#accent)" stroke-width="4" class="dash"/>
+  <text x="52" y="220" fill="#d6e5f7" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="600">Frontend • React Native • Creative Developer</text>
+  <text x="52" y="258" fill="#7f9fbe" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">Build. Debug. Learn. Ship. Repeat.</text>
+  <rect x="420" y="243" width="10" height="20" rx="2" fill="#38bdf8" class="blink"/>
+  <g transform="translate(730 76)">
+    <circle cx="120" cy="80" r="88" fill="none" stroke="#17365b" stroke-width="2"/>
+    <circle cx="120" cy="80" r="62" fill="none" stroke="#38bdf8" stroke-width="2" opacity=".45"/>
+    <circle cx="120" cy="80" r="34" fill="#38bdf8" opacity=".12"/>
+    <circle cx="120" cy="80" r="8" fill="#67e8f9" class="pulse"/>
+    <circle cx="196" cy="80" r="6" fill="#60a5fa"><animateTransform attributeName="transform" type="rotate" from="0 120 80" to="360 120 80" dur="6s" repeatCount="indefinite"/></circle>
+    <text x="120" y="202" text-anchor="middle" fill="#8ba9c7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">React → systems → experience</text>
+  </g>
+</g>
+</svg>
